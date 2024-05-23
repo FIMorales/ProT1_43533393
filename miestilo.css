@@ -18,6 +18,7 @@ body {
     font-style: italic;
 }
 
+/*Ejercicio 4, Punto 3: el estilo que se le da a la division es el siguiente borde:*/
 .estilo {
     border: 3px solid rgb(0, 0, 0);
 }
